@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /tiktok-callback.html
+
+Sitemap: https://aurelioavila.github.io/avila-auto-publisher/sitemap.xml
